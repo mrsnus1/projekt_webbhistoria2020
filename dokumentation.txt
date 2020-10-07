@@ -1,1 +1,13 @@
 Här kan ni dokumentera tester:
+
+Jag vill göra något väldigt cleant och enkelt och kommer hämta
+inspiration från Elon Musk's hemsida "www.boringcompany.com"
+
+*Vit bakgrund
+*Väldigt tydligt och enkelt
+*Lite äldre stil, eftersom att det ska vara ett arkiv med äldre historia!
+
+Jag kommer kopiera texten från artiklarna och dela upp den 
+i olika taggar.
+Kommer förmodligen använda mestadels <p> taggen.
+
